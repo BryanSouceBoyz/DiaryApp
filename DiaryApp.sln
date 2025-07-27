@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35806.103 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary.Domain", "Diary.Domain\Diary.Domain.csproj", "{F0BE9D2C-7EE8-4A90-9630-38177A801A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary.Infrastructure", "Diary.Infrastructure\Diary.Infrastructure.csproj", "{19E51BCE-06BE-40E7-971A-6B8FB4201FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0BE9D2C-7EE8-4A90-9630-38177A801A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0BE9D2C-7EE8-4A90-9630-38177A801A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0BE9D2C-7EE8-4A90-9630-38177A801A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0BE9D2C-7EE8-4A90-9630-38177A801A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E51BCE-06BE-40E7-971A-6B8FB4201FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E51BCE-06BE-40E7-971A-6B8FB4201FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E51BCE-06BE-40E7-971A-6B8FB4201FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E51BCE-06BE-40E7-971A-6B8FB4201FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D5CDD1C-F326-4ACB-9D1C-FC4889B8FC81}
+	EndGlobalSection
+EndGlobal
