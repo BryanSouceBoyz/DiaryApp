@@ -10,7 +10,6 @@
 -  C# 10 / .NET 6
 -  Visual Studio 2022
 -  Entity Framework Core
--  SQL Server (opcional)
 -  Git & GitHub
 
 ---
